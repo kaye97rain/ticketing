@@ -8,6 +8,6 @@ class OfficeSeeder extends Seeder
 {
     public function run()
     {
-        //
+        return("testing1234");
     }
 }
